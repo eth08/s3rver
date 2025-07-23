@@ -32,7 +32,7 @@ The server automatically creates `downz` and `upz` directories if they don't exi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/eth08/s3rver.git](https://github.com/eth08/s3rver.git)
+    git clone https://github.com/eth08/s3rver.git
     cd s3rver
     ```
 
